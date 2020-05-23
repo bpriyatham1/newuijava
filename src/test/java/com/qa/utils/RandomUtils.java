@@ -1,8 +1,8 @@
-package Utils;
+package com.qa.utils;
 
 import org.apache.commons.lang3.RandomStringUtils;
 
-public class Utils {
+public class RandomUtils {
 
     public static final long PAGE_LOAD_TIMEOUT = 15;
     public static final long IMPLICIT_WAIT = 10;
